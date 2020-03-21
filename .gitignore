@@ -1,0 +1,12 @@
+
+# Elastic Beanstalk Files
+    .elasticbeanstalk/*
+    !.elasticbeanstalk/*.cfg.yml
+    !.elasticbeanstalk/*.global.yml
+# Custom
+    /.secrets
+    secrets.tar
+    ...
+
+# Static
+    .static_root/ 
