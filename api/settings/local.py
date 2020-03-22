@@ -140,12 +140,12 @@ USE_TZ = True
 
 ROOT_DIR = os.path.dirname(BASE_DIR)
 print(ROOT_DIR)
-STATIC_URL="/mnt/c/venduster/staging/static/"
-STATIC_DIR = '/mnt/c/venduster/staging/static'
+STATIC_URL="/static/"
+STATIC_DIR = os.path.join(BASE_DIR,'static')
 STATICFILES_DIRS = [
     STATIC_DIR,
 ]
-STATIC_ROOT = '/mnt/c/venduster/staging/static'
+STATIC_ROOT = os.path.join(ROOT_DIR, '.static_root')
 print()
 
 import pymysql

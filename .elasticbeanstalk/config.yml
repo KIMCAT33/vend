@@ -5,6 +5,10 @@ branch-defaults:
   master:
     environment: vendtest
     group_suffix: null
+environment-defaults:
+  vendtest:
+    branch: null
+    repository: origin
 global:
   application_name: django-dev
   branch: null
