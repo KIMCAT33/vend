@@ -78,7 +78,7 @@ travis==0.0.3
 troposphere==2.5.3
 Unidecode==1.1.1
 uritemplate==3.0.1
-urllib3==1.24.3
+urllib3==1.26.5
 watchdog==0.9.0
 wcwidth==0.1.8
 websocket-client==0.57.0
@@ -169,7 +169,7 @@ travis==0.0.3
 troposphere==2.5.3
 Unidecode==1.1.1
 uritemplate==3.0.1
-urllib3==1.24.3
+urllib3==1.26.5
 watchdog==0.9.0
 wcwidth==0.1.8
 websocket-client==0.57.0
