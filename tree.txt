@@ -55,7 +55,7 @@ packaging==19.2
 pathspec==0.5.9
 pathtools==0.1.2
 placebo==0.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pynamodb==4.2.0
 pyparsing==2.4.6
 python-dateutil==2.6.1
@@ -145,7 +145,7 @@ pathspec==0.5.9
 pathtools==0.1.2
 pip==20.0.2
 placebo==0.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pynamodb==4.2.0
 pyparsing==2.4.6
 python-dateutil==2.6.1
